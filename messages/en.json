@@ -1,0 +1,12 @@
+{
+  "Index": {
+    "blogs": "Blogs",
+    "searchByTitle": "Search By Title",
+    "clearFilter": "Clear Filter",
+    "searchPlaceholder": "Search",
+    "english": "English",
+    "arabic": "Arabic",
+    "prev": "Prev",
+    "next": "Next"
+  }
+}

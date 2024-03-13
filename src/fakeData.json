@@ -1,0 +1,163 @@
+{
+  "en": [
+    {
+      "id": "1",
+      "title": "The Art of JavaScript",
+      "content": "In this blog post, we explore the beauty of JavaScript and its versatility",
+      "thumbnail": "/javascript.png"
+    },
+    {
+      "id": "2",
+      "title": "Mastering CSS Grid Layout",
+      "content": "Learn how to create complex layouts with ease using CSS Grid Layout",
+      "thumbnail": "/css.png"
+    },
+    {
+      "id": "3",
+      "title": "Getting Started with React",
+      "content": "Introduction to React.js and how it simplifies front-end development",
+      "thumbnail": "/react.JPG"
+    },
+    {
+      "id": "4",
+      "title": "Deep Dive into Node.js",
+      "content": "Explore the features and capabilities of Node.js for server-side development",
+      "thumbnail": "/node.JPG"
+    },
+    {
+      "id": "5",
+      "title": "The Power of Vue.js",
+      "content": "Discover the simplicity and flexibility of Vue.js for building interactive web interfaces",
+      "thumbnail": "/vue.JPG"
+    },
+    {
+      "id": "6",
+      "title": "Building Scalable APIs with Express.js",
+      "content": "Learn how to design and implement scalable APIs using Express.js framework",
+      "thumbnail": "/express.JPG"
+    },
+    {
+      "id": "7",
+      "title": "Exploring MongoDB",
+      "content": "Introduction to MongoDB and its role in modern database systems",
+      "thumbnail": "/mongo.JPG"
+    },
+    {
+      "id": "8",
+      "title": "Understanding TypeScript",
+      "content": "Discover the benefits of using TypeScript for large-scale JavaScript applications",
+      "thumbnail": "/typescript.JPG"
+    },
+    {
+      "id": "9",
+      "title": "Essential HTML5 Features",
+      "content": "Explore the latest features and capabilities of HTML5 for modern web development",
+      "thumbnail": "/html.png"
+    },
+    {
+      "id": "10",
+      "title": "Optimizing Performance in Web",
+      "content": "Tips and techniques for improving performance in web applications",
+      "thumbnail": "/webPerformance.JPG"
+    },
+    {
+      "id": "11",
+      "title": "Responsive Design Fundamentals",
+      "content": "Learn the principles and best practices of creating responsive web designs",
+      "thumbnail": "/responsiveDesign.png"
+    },
+    {
+      "id": "12",
+      "title": "Introduction to GraphQL",
+      "content": "An overview of GraphQL and its advantages over traditional REST APIs",
+      "thumbnail": "/gql.JPG"
+    },
+    {
+      "id": "13",
+      "title": "Exploring the World of Web",
+      "content": "Discover the power of Web Components and how they can revolutionize web development",
+      "thumbnail": "/webComponent.JPG"
+    }
+  ],
+
+  "ar": [
+    {
+      "id": "1",
+      "title": "فن JavaScript",
+      "content": "في هذا المقال، نستكشف جمال JavaScript وتنوعه",
+      "thumbnail": "/javascript.png"
+    },
+    {
+      "id": "2",
+      "title": "احتراف تخطيط الشبكة CSS",
+      "content": "تعلم كيفية إنشاء تخطيطات معقدة بسهولة باستخدام تخطيط الشبكة CSS",
+      "thumbnail": "/css.png"
+    },
+    {
+      "id": "3",
+      "title": "البدء مع React",
+      "content": "مقدمة لـ React.js وكيفية تبسيط تطوير الواجهة الأمامية",
+      "thumbnail": "/react.JPG"
+    },
+    {
+      "id": "4",
+      "title": "استكشاف عميق في Node.js",
+      "content": "استكشاف الميزات والقدرات الخاصة بـ Node.js لتطوير الخوادم",
+      "thumbnail": "/node.JPG"
+    },
+    {
+      "id": "5",
+      "title": "قوة Vue.js",
+      "content": "اكتشف بساطة ومرونة Vue.js في بناء واجهات الويب التفاعلية",
+      "thumbnail": "/vue.JPG"
+    },
+    {
+      "id": "6",
+      "title": "بناء واجهات برمجية قابلة للتوسع باستخدام Express.js",
+      "content": "تعلم كيفية تصميم وتنفيذ واجهات برمجية قابلة للتوسع باستخدام إطار العمل Express.js",
+      "thumbnail": "/express.JPG"
+    },
+    {
+      "id": "7",
+      "title": "استكشاف MongoDB",
+      "content": "مقدمة لـ MongoDB ودورها في أنظمة قواعد البيانات الحديثة",
+      "thumbnail": "/mongo.JPG"
+    },
+    {
+      "id": "8",
+      "title": "فهم TypeScript",
+      "content": "اكتشف فوائد استخدام TypeScript لتطبيقات JavaScript الكبيرة المقياس",
+      "thumbnail": "/typescript.JPG"
+    },
+    {
+      "id": "9",
+      "title": "ميزات HTML5 الأساسية",
+      "content": "استكشاف أحدث الميزات والقدرات في HTML5 لتطوير الويب الحديث",
+      "thumbnail": "/html.png"
+    },
+    {
+      "id": "10",
+      "title": "تحسين الأداء في الويب",
+      "content": "نصائح وتقنيات لتحسين الأداء في تطبيقات الويب",
+      "thumbnail": "/webPerformance.JPG"
+    },
+    {
+      "id": "11",
+      "title": "أساسيات التصميم الاستجابي",
+      "content": "تعلم مبادئ وأفضل الممارسات لإنشاء تصميمات ويب استجابية",
+      "thumbnail": "/responsiveDesign.png"
+    },
+    {
+      "id": "12",
+      "title": "مقدمة لـ GraphQL",
+      "content": "نظرة عامة على GraphQL ومزاياه على الواجهات البرمجية العادية للراحة",
+      "thumbnail": "/gql.JPG"
+    },
+    {
+      "id": "13",
+      "title": "اكتشاف عالم الويب",
+      "content": "اكتشف قوة مكونات الويب وكيف يمكنهم عمل ثورة في مجال تطوير الويب",
+      "thumbnail": "/webComponent.JPG"
+    }
+  ]
+}
